@@ -1,6 +1,6 @@
-# markdown to pdf
+# markdown-to-pdf
 
-This is a simple setup to convert markdown files to pdf with GitHub styles.
+This is a simple setup to convert `.md` files to `.pdf` with GitHub styles.
 
 ## Usage
 
